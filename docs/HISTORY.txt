@@ -23,6 +23,8 @@ Changelog
 
 - Added Portugese translaton [lccruz]
 
+- Updated Italian translation [cekk]
+
 
 1.3 (2012-04-17)
 ----------------
